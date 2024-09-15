@@ -1,0 +1,15 @@
+{
+  "name": "copy-2",
+  "version": "1.0.0",
+  "description": "Making Internet Safer, One Message At A Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+}
